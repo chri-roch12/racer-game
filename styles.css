@@ -1,0 +1,10 @@
+p {
+  border-style: solid;
+}
+#track1, #track2 {
+  border-style: dashed;
+}
+img {
+  height: 20px;
+  width: 20px;
+}
