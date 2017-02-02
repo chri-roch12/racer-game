@@ -1,5 +1,6 @@
 p {
   border-style: solid;
+  height:30px;
 }
 #track1, #track2 {
   border-style: dashed;
